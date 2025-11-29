@@ -2,6 +2,7 @@
 
 ###
 
+![Image](https://github.com/user-attachments/assets/41fdb3d1-49d9-421a-8e3d-dd61f4aa2990)
 <div align="center">
   <img height="200" src="/anime-girl.gif" alt="gif" />
 </div>
