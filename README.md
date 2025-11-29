@@ -10,8 +10,7 @@
 ###
 
 <p align="left">
-  I'm a Software Engineering (RPL) student who is currently learning and exploring the world of Web Development.  
-  <br>This repository contains my learning progress, practice projects, and school assignments, mainly focused on frontend and backend web development.
+  "Digital artist exploring the art of visual storytelling, with a focus on crafting compelling character designs and immersive game lore."
 </p>
 <br>
 
