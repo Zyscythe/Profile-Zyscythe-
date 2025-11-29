@@ -6,8 +6,11 @@
 Digital artist exploring the art of visual storytelling, with a focus on crafting compelling character designs and immersive game lore.
 
 
+*   ## My Socials
+*   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zyscythe?igsh=dDlzeHV3cWUycjU4)
+* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ZyAvi)
 *   ## Design Tools
-*   ![Canva](images/canva-icon.png) Canva
+*   [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
 *   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/1F60L5KeJ)
 
 ## Inspirations
@@ -19,21 +22,3 @@ Digital artist exploring the art of visual storytelling, with a focus on craftin
 
 I aspire to be a story designer for RPGs or adventure games. I want to create stories about friendship, sacrifice, and self-discovery. My dream role is to focus on worldbuilding and character design.
 
-path_parameters = {gem: "orange"}
-query_parameters = {
-  style: "flat",
-  logo: "github",
-  logoColor: "yellow",
-  logoSize: "auto",
-  label: "banana",
-  labelColor: "blue",
-  color: "black",
-  cacheSeconds: "3600",
-  link: "https://example.com/green/red",
-}
-Shields::Badge.gem_total_downloads(path_parameters:, query_parameters:)
-# => "[![RubyGems Total Downloads](https://img.shields.io/gem/dt/orange?style=flat&logo=github&logoColor=yellow&logoSize=auto&label=banana&labelColor=blue&color=black&cacheSeconds=3600&link=https%3A%2F%2Fexample.com%2Fgreen%2Fred)](https://rubygems.org/gems/orange)
-
-# And again it doesn't matter if the arguments are top-level or nested inside path and query parameters:
-Shields::Badge.gem_total_downloads(**path_parameters, **query_parameters)
-# => "[![RubyGems Total Downloads](https://img.shields.io/gem/dt/orange?style=flat&logo=github&logoColor=yellow&logoSize=auto&label=banana&labelColor=blue&color=black&cacheSeconds=3600&link=https%3A%2F%2Fexample.com%2Fgreen%2Fred)](https://rubygems.org/gems/orange)
