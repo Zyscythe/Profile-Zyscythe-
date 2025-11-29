@@ -8,11 +8,11 @@ Digital artist exploring the art of visual storytelling, with a focus on craftin
 
 *   ## Design Tools
 *   ![Canva](images/canva-icon.png) Canva
-*   ![Pinterest](images/pinterest-icon.png)
+*   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/1F60L5KeJ)
 
 ## Inspirations
 
-*   [Punishing Gray Raven]: [We call it the Golden Age, the pinnacle of human civilization. We master quantum computing and cold fusion, climbing the noble ladder of progress, we reach for the stars themselves. ]
+*   [Punishing Gray Raven]: [We call it the Golden Age, the pinnacle of human civilization. We master quantum computing and cold fusion, climbing the noble ladder of progress, we reach for the stars themselves.]
 *   [adalah Ryukishi07]: [About him, his masterpieces made me know what the true meaning of being human is.]
 
 ## Dream Projects
