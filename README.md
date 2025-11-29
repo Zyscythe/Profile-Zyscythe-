@@ -6,16 +6,15 @@
 Digital artist exploring the art of visual storytelling, with a focus on crafting compelling character designs and immersive game lore.
 
 ## Design Tools
+## Design Tools
 
-*   Adobe Photoshop
-*   Canva
-*   [Sebutkan alat lain yang kamu gunakan]
+*   <ins> 🎨 </ins> Pin
+*    <ins> 📝 </ins> Canva  
 
 ## Inspirations
 
-*   [Nama Game]: [Deskripsi singkat mengapa game ini menginspirasi kamu]
-*   [Nama Anime]: [Deskripsi singkat mengapa anime ini menginspirasi kamu]
-*   [Nama Artist]: [Deskripsi singkat mengapa artist ini menginspirasi kamu]
+*   [Punishing Gray Raven]: [We call it the Golden Age, the pinnacle of human civilization. We master quantum computing and cold fusion, climbing the noble ladder of progress, we reach for the stars themselves. ]
+*   [adalah Ryukishi07]: [About him, his masterpieces made me know what the true meaning of being human is.]
 
 ## Dream Projects
 
